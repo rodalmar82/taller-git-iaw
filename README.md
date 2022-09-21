@@ -45,7 +45,6 @@ Esto está ~tachado~
 Esto no es una cita
 > Esto si es una cita
 
-
 # Referencias
 
 [Moodle Centros Almería](https://educacionadistancia.juntadeandalucia.es/centros/almeria/course/view.php?id=1489)
